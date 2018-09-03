@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f0cf75</color>
+    <color name="colorPrimaryDark">#f0cf75</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="FundoJogo">#f0cf75</color>
+    <color name="botoes">#0f0f0f</color>
+    <color name="letraBranca">#fff</color>
+
+</resources>
