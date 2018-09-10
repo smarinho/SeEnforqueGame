@@ -54,7 +54,6 @@ public class MainActivity extends Activity {
             "Santos",
             "Palmeiras",
             "Corinthians",
-            "Sao Paulo",
             "Vasco"
     };
 
@@ -71,7 +70,6 @@ public class MainActivity extends Activity {
             "Cadê minha torcida?",
             "51 é pinga e não mundial",
             "Os jogadores são da febem",
-            "Quando vão sair do armário?",
             "Tem mais dedos no Lula do que pontos nesse time"
     };
 
